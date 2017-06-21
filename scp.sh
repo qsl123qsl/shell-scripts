@@ -1,5 +1,7 @@
 --------备注：使用scp命令传输文件，expect环境免密码使用
 --------scp.sh 源文件路径 用户名 host password 目标路径
+--------下面开始shell脚本
+
 #!/usr/bin/expect
 #!/bin/sh
 #set password 123@qwe
