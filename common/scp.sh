@@ -4,6 +4,9 @@
 
 #!/usr/bin/expect
 #!/bin/sh
+# FileName：scp.sh
+# Description：scp命令的脚本
+# Author：shilin.qu
 #set password 123@qwe
 
 set from [lindex $argv 0]

@@ -1,8 +1,11 @@
 #!/bin/bash
+# FileName：create_user.sh
+# Description：
 # 用来新建账号，用于批量创建用户，功能有：
 # 1. 检查userlist.txt是否存在
 # 2. 构建userlist.txt中的账号
 # 3. 将上述刚新建的账号修改成为强制第一次进入需要修改密码的格式
+# Author：shilin.qu
 
 export PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
